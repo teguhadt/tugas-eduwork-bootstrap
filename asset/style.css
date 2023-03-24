@@ -1,0 +1,51 @@
+body{
+  background-image: url("../img/bg-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 16px;
+  font-family:'Poppins',!important;
+}
+
+.navbar {
+padding: 20px;
+}
+
+.card-aniq{
+  font-weight: 700;
+  text-align: center;
+}
+
+.step {
+  background: #187cff;
+  border-radius: 0.9em;
+  -moz-border-radius: 0.9em;
+  -webkit-border-radius: 0.9em;
+  color: #ffffff;
+  display: inline-block;
+  line-height: 1.6em;
+  margin-right: 5px;
+  text-align: center;
+  width: 1.6em;
+}
+
+.dotted{
+border-left: 2px #264bec dotted;
+height: 30px;
+width: 0px;
+display: inline-block;
+}
+
+.daftar{
+  margin-right: 20px;
+  position:relative;
+}
+
+.badge{
+    right:-20px;
+    position: absolute;
+    background:red;
+    border-radius: 10px 10px 10px 10px;
+    color:white;
+    padding:4px 8px;
+    font-size:12px;
+}
